@@ -14,7 +14,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   BottomData _currentPage = BottomData.Trending;
   PageController _controller = PageController();
-  String _appBarText = 'Images';
+  String _appBarText = 'Trending';
 
   @override
   void initState() {
