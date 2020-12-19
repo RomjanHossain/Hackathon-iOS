@@ -1,16 +1,28 @@
 # popularmovie
 
-A new Flutter project.
+A new Flutter project for Grameenphone Hackathon.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+at first you need to get all the dependency for this projects.
+all Dependency list in the `pubspec.yaml` file.
 
-A few resources to get you started if this is your first Flutter project:
+then type `flutter run` command on terminal.
+this should work.......
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+here's some screenshot of this projects:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+| ![ScreenShot 1](screenshot/ss1.png) | ![ScreenShot 2](screenshot/ss2.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![ScreenShot 3](screenshot/ss3.png) | ![ScreenShot 4](screenshot/ss4.png) |
+
+
+
+| ![ScreenShot 5](screenshot/ss5.png) | ![ScreenShot 6](screenshot/ss6.png) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![ScreenShot 7](screenshot/ss7.png) | ![ScreenShot 8](screenshot/ss8.png) |
+
+
+
+
