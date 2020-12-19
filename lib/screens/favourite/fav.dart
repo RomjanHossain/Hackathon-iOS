@@ -80,7 +80,7 @@ class _FavTvState extends State<FavTv> {
               right: 0,
               child: CustomAppBar(
                 isdownload: true,
-                text: 'Favourite Movie',
+                text: 'Favourite Tv-Series',
               ),
             ),
           ],
