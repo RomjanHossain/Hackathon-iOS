@@ -166,7 +166,7 @@ class _DetailState extends State<Detail> {
                               Container(
                                   margin: EdgeInsets.symmetric(
                                     vertical: 10,
-                                    horizontal: 90,
+                                    horizontal: 70,
                                   ),
                                   child: _checkIsFav(context)
                                       ? FlatButton.icon(
