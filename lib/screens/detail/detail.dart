@@ -188,7 +188,7 @@ class _DetailState extends State<Detail> {
                                           icon: Icon(
                                             Icons.remove,
                                           ),
-                                          label: Text('Remove from Favourites'),
+                                          label: Text('Remove'),
                                         )
                                       : FlatButton.icon(
                                           color: Colors.white60,
